@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="41px" viewBox="0 0 48 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Desktop-HD-Copy-3" transform="translate(-739.000000, -3015.000000)" stroke="#1BDEA0" stroke-width="2">
+            <g id="Group" transform="translate(740.000000, 3016.000000)">
+                <polygon id="Stroke-3819" points="22 23 0 13 0 29 22 39"></polygon>
+                <polygon id="Stroke-3820" points="46 13 22 23 22 39 46 29"></polygon>
+                <path d="M29,14 C29,15.656 26.312,17 23,17 C19.686,17 17,15.656 17,14 C17,12.344 19.686,11 23,11 C26.312,11 29,12.344 29,14 L29,14 Z" id="Stroke-3821"></path>
+                <path d="M29,3 C29,4.656 26.312,6 23,6 C19.686,6 17,4.656 17,3 C17,1.344 19.686,0 23,0 C26.312,0 29,1.344 29,3 L29,3 Z" id="Stroke-3822"></path>
+                <path d="M43,9 C43,10.656 40.312,12 37,12 C33.686,12 31,10.656 31,9 C31,7.344 33.686,6 37,6 C40.312,6 43,7.344 43,9 L43,9 Z" id="Stroke-3823"></path>
+                <path d="M16,9 C16,10.656 13.312,12 10,12 C6.686,12 4,10.656 4,9 C4,7.344 6.686,6 10,6 C13.312,6 16,7.344 16,9 L16,9 Z" id="Stroke-3824"></path>
+                <path d="M5,11 L0,13" id="Stroke-3825"></path>
+                <path d="M18,5 L14,6.874" id="Stroke-3826"></path>
+                <path d="M33,7 L28,5" id="Stroke-3827"></path>
+                <path d="M46,13 L41,11" id="Stroke-3828"></path>
+            </g>
+        </g>
+    </g>
+</svg>
