@@ -89,7 +89,7 @@
 .masthead {
   position: relative;
   width: 100%;
-  height: auto;
+  height: 80vh;
   min-height: 35rem;
   padding: 15rem 0;
   background: url("../img/bg.jpg");
@@ -107,9 +107,9 @@
   font-family: 'Roboto';
   font-weight: 600;
   text-align: left;
-  font-size: 1rem;
-  line-height: 2.5rem;
-  letter-spacing: 0.8rem;
+  font-size: 3rem;
+  line-height: 3rem;
+  letter-spacing: 0;
   padding-bottom: 1rem;
   background: none;
   color: #fff;
@@ -118,7 +118,6 @@
 
 .masthead h2 {
   font-weight: 400;
-  max-width: 20rem;
   color: #fff;
   font-size: 1rem;
 }
@@ -136,7 +135,7 @@
 
 @media (min-width: 992px) {
   .masthead {
-    height: 100vh;
+    height: 80vh;
     padding: 0;
   }
   .masthead h1 {
@@ -145,7 +144,6 @@
     letter-spacing: 0;
   }
   .masthead h2 {
-    max-width: 30rem;
     font-size: 1.25rem;
   }
 }
@@ -169,18 +167,22 @@
 }
 
 .masthead #mc_embed_signup input.email {
-  height: 44px;
+  height: 50px;
   font-family: 'roboto',sans-serif;
+  padding-left: 15px;
+  border: none;
+  border-radius: 0;
 }
 
 .masthead #mc_embed_signup .button {
   background-color: #1BDEA0;
-  height: 44px;
+  height: 50px;
   color: #161616;
   font-size: 0.8rem;
   letter-spacing: .12rem;
   font-weight: 500;
   text-transform: uppercase;
+  border-radius: 0;
 }
 
 .masthead #mc_embed_signup form {
@@ -228,6 +230,7 @@
 
 .about-section {
   padding-top: 8rem;
+  padding-bottom: 8rem;
   background: #fff;
 }
 
@@ -236,7 +239,13 @@
 }
 
 .about-section .sub-section {
-  padding: 6rem 0 6rem 0;
+  padding: 5rem 0 5rem 0;
+}
+
+@media (max-width: 1024px) {
+  .about-section .sub-section {
+    padding: 4rem 0 2.5rem 0;
+  }
 }
 
 .projects-section {
@@ -253,6 +262,22 @@
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #1BDEA0;
   }
+}
+
+.projects-section .nav-link {
+  padding: .5rem 2rem;
+  margin: 0 3vw;
+}
+
+.projects-section .nav-pills .nav-link.active, .projects-section .nav-pills .show > .nav-link {
+  background-color: #1BDEA0;
+  color: #161616;
+  letter-spacing: 0;
+}
+
+.projects-section .nav-pills .nav-link {
+  border-radius: 8rem;
+  letter-spacing: 0;
 }
 
 .projects-section .sub-section {
@@ -276,25 +301,37 @@
 }
 
 .signup-section {
-  padding: 10rem 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.1)), color-stop(75%, rgba(22, 22, 22, 0.5)), to(#161616)), url("../img/bg-signup.jpg");
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-signup.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
+  padding: 8rem 0;
+  background-color: #1BDEA0;
 }
 
-.signup-section .form-inline input {
-  -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  padding: 1.25rem 2rem;
-  height: auto;
-  font-family: 'Varela Round';
-  font-size: 80%;
+.signup-section #mc_embed_signup {
+  background: none;
+  font: 14px 'roboto',Arial,sans-serif;
+  width: 100%;
+}
+
+.signup-section #mc_embed_signup input.email {
+  height: 50px;
+  font-family: 'roboto',sans-serif;
+  border: none;
+  padding-left: 15px;
+  border-radius: 0px;
+}
+
+.signup-section #mc_embed_signup .button {
+  background-color: #161616;
+  height: 50px;
+  color: #fff;
+  font-size: 0.8rem;
+  letter-spacing: .12rem;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.15rem;
-  border: 0;
+  border-radius: 0;
+}
+
+.signup-section #mc_embed_signup form {
+  text-align: center;
 }
 
 .contact-section {
@@ -346,6 +383,16 @@ body {
   letter-spacing: 0.0625em;
 }
 
+.container {
+  padding: 0 30px 0 30px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 800px;
+  }
+}
+
 h1, h2, h3, h5, h6 {
   font-weight: 600;
   letter-spacing: 0;
@@ -392,4 +439,21 @@ p {
 
 footer {
   padding: 5rem 0;
+}
+
+.btn {
+  padding: 1rem 2rem;
+  border-radius: 0rem;
+  font-family: 'roboto';
+  font-size: 90%;
+  text-transform: uppercase;
+  letter-spacing: .05rem;
+  border: 0;
+  color: #161616;
+  font-weight: 600;
+}
+
+.feedback-section {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
 }
