@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="41px" viewBox="0 0 48 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>developers</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Desktop-HD-Copy-3" transform="translate(-739.000000, -3015.000000)" stroke="#1BDEA0" stroke-width="2">
-            <g id="Group" transform="translate(740.000000, 3016.000000)">
-                <polygon id="Stroke-3819" points="22 23 0 13 0 29 22 39"></polygon>
-                <polygon id="Stroke-3820" points="46 13 22 23 22 39 46 29"></polygon>
-                <path d="M29,14 C29,15.656 26.312,17 23,17 C19.686,17 17,15.656 17,14 C17,12.344 19.686,11 23,11 C26.312,11 29,12.344 29,14 L29,14 Z" id="Stroke-3821"></path>
-                <path d="M29,3 C29,4.656 26.312,6 23,6 C19.686,6 17,4.656 17,3 C17,1.344 19.686,0 23,0 C26.312,0 29,1.344 29,3 L29,3 Z" id="Stroke-3822"></path>
-                <path d="M43,9 C43,10.656 40.312,12 37,12 C33.686,12 31,10.656 31,9 C31,7.344 33.686,6 37,6 C40.312,6 43,7.344 43,9 L43,9 Z" id="Stroke-3823"></path>
-                <path d="M16,9 C16,10.656 13.312,12 10,12 C6.686,12 4,10.656 4,9 C4,7.344 6.686,6 10,6 C13.312,6 16,7.344 16,9 L16,9 Z" id="Stroke-3824"></path>
-                <path d="M5,11 L0,13" id="Stroke-3825"></path>
-                <path d="M18,5 L14,6.874" id="Stroke-3826"></path>
-                <path d="M33,7 L28,5" id="Stroke-3827"></path>
-                <path d="M46,13 L41,11" id="Stroke-3828"></path>
+    <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="developers">
+            <circle id="Oval-2-Copy-4" fill="#FFFFFF" cx="34" cy="34" r="34"></circle>
+            <g id="Group" transform="translate(16.000000, 19.000000)" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25">
+                <path d="M35.26905,25.1738316 C35.26905,26.8588842 33.92655,28.2264632 32.26905,28.2264632 L3.76905,28.2264632 C2.11305,28.2264632 0.76905,26.8588842 0.76905,25.1738316 L0.76905,3.80541053 C0.76905,2.12035789 2.11305,0.752778947 3.76905,0.752778947 L32.26905,0.752778947 C33.92655,0.752778947 35.26905,2.12035789 35.26905,3.80541053 L35.26905,25.1738316 L35.26905,25.1738316 Z" id="Stroke-3729"></path>
+                <path d="M0.76905,8.38435789 L35.26905,8.38435789" id="Stroke-3730"></path>
+                <path d="M6.76905,4.56856842 C6.76905,4.98983158 6.43305,5.33172632 6.01905,5.33172632 C5.60505,5.33172632 5.26905,4.98983158 5.26905,4.56856842 C5.26905,4.14730526 5.60505,3.80541053 6.01905,3.80541053 C6.43305,3.80541053 6.76905,4.14730526 6.76905,4.56856842 L6.76905,4.56856842 Z" id="Stroke-3731"></path>
+                <path d="M11.26905,4.56856842 C11.26905,4.98983158 10.93305,5.33172632 10.51905,5.33172632 C10.10505,5.33172632 9.76905,4.98983158 9.76905,4.56856842 C9.76905,4.14730526 10.10505,3.80541053 10.51905,3.80541053 C10.93305,3.80541053 11.26905,4.14730526 11.26905,4.56856842 L11.26905,4.56856842 Z" id="Stroke-3732"></path>
+                <path d="M15.76905,4.56856842 C15.76905,4.98983158 15.43305,5.33172632 15.01905,5.33172632 C14.60505,5.33172632 14.26905,4.98983158 14.26905,4.56856842 C14.26905,4.14730526 14.60505,3.80541053 15.01905,3.80541053 C15.43305,3.80541053 15.76905,4.14730526 15.76905,4.56856842 L15.76905,4.56856842 Z" id="Stroke-3733"></path>
+                <polyline id="Stroke-3734" points="8.26905 14.4896211 12.01905 18.3054105 8.26905 22.1212"></polyline>
+                <path d="M17.26905,19.0685684 L23.26905,19.0685684" id="Stroke-3735"></path>
             </g>
         </g>
     </g>

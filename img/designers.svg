@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 2</title>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>designers</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD-Copy-3" transform="translate(-184.000000, -2989.000000)">
-            <g id="Group-2" transform="translate(184.000000, 2989.000000)">
-                <circle id="Oval-2" fill="#FFFFFF" cx="35" cy="35" r="35"></circle>
-                <g id="Group" transform="translate(16.000000, 16.000000)" stroke="#000000" stroke-linejoin="round" stroke-width="2">
-                    <path d="M13,17 L6,24" id="Stroke-6016" stroke-linecap="round"></path>
-                    <path d="M25,6 L17,14" id="Stroke-6017" stroke-linecap="round"></path>
-                    <path d="M6,27 C6,28.656 4.6545,30 3,30 C1.3425,30 0,28.656 0,27 C0,25.344 1.3425,24 3,24 C4.6545,24 6,25.344 6,27 L6,27 Z" id="Stroke-6018" stroke-linecap="round"></path>
-                    <path d="M30,3 C30,4.656 28.6545,6 27,6 C25.3425,6 24,4.656 24,3 C24,1.344 25.3425,0 27,0 C28.6545,0 30,1.344 30,3 L30,3 Z" id="Stroke-6019" stroke-linecap="round"></path>
-                    <path d="M17,15 C19.8298177,12.504618 23.5001432,11 27.5095924,11 L34,11" id="Stroke-6020" stroke-linecap="round"></path>
-                    <path d="M11,34 L11,27.6 C11,24.032 12.5100806,20.6624 15,18" id="Stroke-6021" stroke-linecap="round"></path>
-                    <path d="M17,15.5 C17,16.8833333 15.88,18 14.5,18 C13.12,18 12,16.8833333 12,15.5 C12,14.12 13.12,13 14.5,13 C15.88,13 17,14.12 17,15.5 L17,15.5 Z" id="Stroke-6022" stroke-linecap="round"></path>
-                    <polygon id="Stroke-6023" points="13 38 9 38 9 34 13 34"></polygon>
-                    <polygon id="Stroke-6024" points="38 14 34 14 34 10 38 10"></polygon>
-                </g>
+        <g id="designers">
+            <circle id="Oval-2-Copy" fill="#FFFFFF" cx="34" cy="34" r="34"></circle>
+            <g id="Group" transform="translate(23.000000, 17.000000)" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25">
+                <polygon id="Stroke-5981" points="16.8695652 6 5.91304348 6 2 0 20 0"></polygon>
+                <polygon id="Stroke-5982" points="13.8 35 9.2 35 0 15.9210526 6.13333333 6 16.8666667 6 23 15.9210526"></polygon>
+                <path d="M12,18 L12,35" id="Stroke-5983"></path>
+                <path d="M14,15 C14,16.656 12.6575,18 11,18 C9.344,18 8,16.656 8,15 C8,13.3425 9.344,12 11,12 C12.6575,12 14,13.3425 14,15 L14,15 Z" id="Stroke-5984"></path>
             </g>
         </g>
     </g>

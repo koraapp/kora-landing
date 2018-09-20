@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="51px" height="53px" viewBox="0 0 51 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Group Copy 4</title>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>product</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Desktop-HD-Copy-3" transform="translate(-738.000000, -3291.000000)" stroke="#1BDEA0" stroke-width="2">
-            <g id="Group-Copy-4" transform="translate(739.000000, 3292.000000)">
-                <path d="M39,24.7692308 C39,16.6116923 32.504,10 24.5,10 C16.4911667,10 10,16.6116923 10,24.7692308 C10,31.6467692 14.6230833,37.4116923 20.875,39.0535385 L20.875,42 L28.125,42 L28.125,39.0535385 C34.3720833,37.4116923 39,31.6467692 39,24.7692308 L39,24.7692308 Z" id="Stroke-6627"></path>
-                <path d="M25,51 L23,51" id="Stroke-6628"></path>
-                <path d="M28,46 L21,46" id="Stroke-6629"></path>
-                <path d="M25,0 L25,5" id="Stroke-6630"></path>
-                <path d="M49,25 L44,25" id="Stroke-6631"></path>
-                <path d="M0,25 L5,25" id="Stroke-6632"></path>
-                <path d="M6,6 L12,12" id="Stroke-6633"></path>
-                <path d="M44,6 L38,12" id="Stroke-6634"></path>
+    <g id="Graphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product">
+            <circle id="Oval-2-Copy-3" fill="#FFFFFF" cx="34" cy="34" r="34"></circle>
+            <g id="Group" transform="translate(16.000000, 16.000000)" stroke="#181818" stroke-linejoin="round" stroke-width="2.25">
+                <path d="M26.2485,15.75 C26.2485,19.065 23.562,21.75 20.2485,21.75 C16.935,21.75 14.2485,19.065 14.2485,15.75 C14.2485,12.4365 16.935,9.75 20.2485,9.75 C23.562,9.75 26.2485,12.4365 26.2485,15.75 L26.2485,15.75 Z" id="Stroke-2723"></path>
+                <path d="M5.25,8.25 C5.25,9.4935 4.2435,10.5 3,10.5 C1.7565,10.5 0.75,9.4935 0.75,8.25 C0.75,7.008 1.7565,6 3,6 C4.2435,6 5.25,7.008 5.25,8.25 L5.25,8.25 Z" id="Stroke-2724"></path>
+                <path d="M35.25,3 C35.25,4.242 34.2435,5.25 33,5.25 C31.7565,5.25 30.75,4.242 30.75,3 C30.75,1.7565 31.7565,0.75 33,0.75 C34.2435,0.75 35.25,1.7565 35.25,3 L35.25,3 Z" id="Stroke-2725"></path>
+                <path d="M5.25,33 C5.25,34.2435 4.2435,35.25 3,35.25 C1.7565,35.25 0.75,34.2435 0.75,33 C0.75,31.758 1.7565,30.75 3,30.75 C4.2435,30.75 5.25,31.758 5.25,33 L5.25,33 Z" id="Stroke-2726"></path>
+                <path d="M22.4985,33 C22.4985,34.2435 21.492,35.25 20.2485,35.25 C19.005,35.25 17.9985,34.2435 17.9985,33 C17.9985,31.758 19.005,30.75 20.2485,30.75 C21.492,30.75 22.4985,31.758 22.4985,33 L22.4985,33 Z" id="Stroke-2727"></path>
+                <path d="M4.5894,31.40925 L16.0194,20.00625" id="Stroke-2728"></path>
+                <path d="M24.4995,11.5152 L31.407,4.5927" id="Stroke-2729"></path>
+                <path d="M5.0244,9.2256 L14.7339,13.3866" id="Stroke-2730"></path>
+                <path d="M30.84225,21.04395 L25.41675,18.80145" id="Stroke-2731"></path>
+                <path d="M20.2485,30.75 L20.2485,21.75" id="Stroke-2732"></path>
+                <path d="M35.25,21.75 C35.25,22.992 34.2435,24 33,24 C31.758,24 30.75,22.992 30.75,21.75 C30.75,20.508 31.758,19.5 33,19.5 C34.2435,19.5 35.25,20.508 35.25,21.75 L35.25,21.75 Z" id="Stroke-2733"></path>
             </g>
         </g>
     </g>
