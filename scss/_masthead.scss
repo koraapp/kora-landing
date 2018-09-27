@@ -37,6 +37,13 @@
   h4 {
     color: $white;
   }
+  @media(max-width: 468px) {
+    min-height: 900px;
+    h1 {
+      font-size: 3rem;
+      line-height: 3rem;
+    }
+  }
   @media(min-width: 768px) {
     h1 {
       font-size: 4rem;

@@ -126,6 +126,16 @@
   color: #fff;
 }
 
+@media (max-width: 468px) {
+  .masthead {
+    min-height: 900px;
+  }
+  .masthead h1 {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+}
+
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 4rem;
